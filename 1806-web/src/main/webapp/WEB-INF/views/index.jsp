@@ -8,7 +8,12 @@
 <title>景淘网-综合旅游推荐首选（JT.COM）-旅游度假、出行攻略、风土人情、心得分享！</title>
 <meta name="description" content="京淘JD.COM-专业的综合网上购物商城，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品、在线旅游等数万个品牌千万种优质商品。便捷、诚信的服务，为您提供愉悦的网上商城购物体验! ">
 <meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京淘商城">
-<link href="/css/jt.css" rel="stylesheet"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css"> -->
+  	<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
+  <link href="/css/jt.css" rel="stylesheet"/>
 <script type="text/javascript">
 	window.pageConfig={
 	compatible:true,
@@ -23,6 +28,11 @@
 #categorys-2013 .mt {
 	background: 0
 }
+ /* Make the image fully responsive */
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
 </style>
 </head>
 <body>
@@ -32,8 +42,8 @@
 <div class="w">
 <div id="o-slide">
 <div class="slide" id="slide">
-<script type="text/javascript">
-;(function(cfg, doc) {
+<!-- <script type="text/javascript">
+ ;(function(cfg, doc) {
     if ( !cfg.DATA_MSlide ) {
         cfg.DATA_MSlide=[];
     }
@@ -53,16 +63,78 @@
             +'</ul><div class="slide-controls"><span class="curr">1</span></div>';
         doc.write(TPL);
     }
-})(pageConfig, document);;</script>
-</div><!--slide end-->
-<div class="jscroll" id="mscroll">
-<div class="ctrl" id="mscroll-ctrl-prev"><b></b></div>
-<div class="ctrl" id="mscroll-ctrl-next"><b></b></div>
+})(pageConfig, document);;</script> -->
+<div id="demo" class="carousel" data-ride="carousel"> 
+  <!-- 指示符 -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+  </ul>
+ 
+  <!-- 轮播图片 -->
+   <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="http://image.jt.com/image/111.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="http://image.jt.com/image/222.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="http://image.jt.com/image/333.jpg">
+    </div>
+     <div class="carousel-item">
+      <img src="http://image.jt.com/image/444.jpg">
+    </div>
+  </div>
+ 
+  <!-- 左右切换按钮 -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+ </div>
+<!-- <div id="demo" class="carousel" data-ride="carousel">
+ 
+  指示符
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+ 
+  轮播图片
+   <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
+    </div>
+    <div class="carousel-item">
+      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
+    </div>
+  </div>
+ 
+  左右切换按钮
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+  </div>  -->
+</div><!-- slide end -->
+<!-- <div class="jscroll" id="mscroll"> -->
+<!-- <div class="ctrl" id="mscroll-ctrl-prev"><b></b></div>
+<div class="ctrl" id="mscroll-ctrl-next"><b></b></div> -->
 <div class="o-list">
-<div class="list" id="mscroll-list"></div>
-</div>
-</div><!--mscroll end-->
-<script type="text/javascript">
+</div> 
+<!-- </div> --><!--mscroll end-->
+<!-- <script type="text/javascript">
 pageConfig.DATA_MScroll =[
     {
         "alt": "",
@@ -181,7 +253,7 @@ pageConfig.DATA_MScroll =[
     document.getElementById(object).innerHTML = e.join("");
     pageConfig.DATA_MScroll = a
 })("mscroll-list", pageConfig.DATA_MScroll);
-</script>
+</script>-->
 </div>
 <div class="m fr da0x70" clstag="homepage|keycount|home2013|10a">
 <script>
