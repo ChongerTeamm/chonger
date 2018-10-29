@@ -76,16 +76,16 @@
   <!-- 轮播图片 -->
    <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="http://image.jt.com/image/111.jpg">
+      <img src="/images/111.jpg">
     </div>
     <div class="carousel-item">
-      <img src="http://image.jt.com/image/222.jpg">
+      <img src="/images/222.jpg">
     </div>
     <div class="carousel-item">
-      <img src="http://image.jt.com/image/333.jpg">
+      <img src="/images/333.jpg">
     </div>
      <div class="carousel-item">
-      <img src="http://image.jt.com/image/444.jpg">
+      <img src="/images/444.jpg">
     </div>
   </div>
  
