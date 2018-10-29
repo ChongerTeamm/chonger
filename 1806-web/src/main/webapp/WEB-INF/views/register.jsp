@@ -226,7 +226,7 @@ function addToFavorite() {
                     <div class="fl item-ifo">
                         <input type="checkbox" class="checkbox" checked="checked" id="readme"
                                onclick="agreeonProtocol();">
-                        <label for="protocol">我已阅读并同意<a href="#" class="blue" id="protocol">《京淘用户注册协议》</a></label>
+                        <label for="protocol">我已阅读并同意<a href="#" class="blue" id="protocol">《虫二用户注册协议》</a></label>
                         <span class="clr"></span>
                         <label id="protocol_error" class="error hide">请接受服务条款</label>
                     </div>
