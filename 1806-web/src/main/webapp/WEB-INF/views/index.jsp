@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>景淘网-综合旅游推荐首选（JT.COM）-旅游度假、出行攻略、风土人情、心得分享！</title>
+<title>虫二网-综合旅游推荐首选（JT.COM）-旅游度假、出行攻略、风土人情、心得分享！</title>
 <meta name="description" content="京淘JD.COM-专业的综合网上购物商城，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品、在线旅游等数万个品牌千万种优质商品。便捷、诚信的服务，为您提供愉悦的网上商城购物体验! ">
 <meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京淘商城">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -279,7 +279,7 @@ pageConfig.DATA_MScroll =[
 </div><!--da end-->
 <div id="jdnews" class="m m1" >
 <div class="mt">
-<h2>景淘快报</h2>
+<h2>虫二快报</h2>
 <div class="extra" clstag="homepage|keycount|home2013|11a"><a href="http://www.jd.com/moreSubject.aspx" target="_blank">更多快报&nbsp;&gt;</a></div>
 </div>
 <div class="mc">

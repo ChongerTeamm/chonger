@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
-    <title>登录京淘</title>
+    <title>登录虫二</title>
     <link type="text/css" rel="stylesheet" href="/css/login.css"/>
     <script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
     <script type="text/javascript" src="/js/login/g.base.js"></script>
@@ -45,7 +45,7 @@
 <div class="w">
     <div id="logo">
     	<a href="http://www.jt.com/" clstag="passport|keycount|login|01">
-    		<img src="/images/jt-logo.png" alt="京淘" width="170" height="60"/>
+    		<img src="/images/jt-logo.png" alt="虫二" width="170" height="60"/>
     	</a><b></b>
    	</div>
 </div>
@@ -53,7 +53,7 @@
     <input type="hidden" id="uuid" name="uuid" value="1359c13d-7daa-4a2a-972d-f09e09e6605a"/>
     <div class=" w1" id="entry">
         <div class="mc " id="bgDiv">
-            <div id="entry-bg" clstag="passport|keycount|login|02" style="width: 511px; height: 455px; position: absolute; left: -44px; top: -44px; background: url(/images/544a11d3Na5a3d566.png) 0px 0px no-repeat;">
+            <div id="entry-bg" clstag="passport|keycount|login|02" style="width: 511px; height: 355px; position: absolute;background: url(/images/544a11d3Na5a3d566.png) 0px 0px no-repeat;">
 			</div>
             <div class="form ">
                 <div class="item fore1">
@@ -141,7 +141,7 @@
             </div>
                 <div class="coagent hide" clstag="passport|keycount|login|07">
                     <label class="ftx24">
-                        使用合作网站账号登录京淘：
+                        使用合作网站账号登录虫二：
                         <span class="clr"></span><input type="hidden" name="KbmPxRtWsz" value="IMdug" />
                     <span class="btns qq"><s></s> <a href="javascript:void(0)"
                                                      onclick="window.location='http://qq.jd.com/new/qq/login.aspx'+window.location.search;return false;">QQ</a></span>

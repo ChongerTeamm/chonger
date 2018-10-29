@@ -65,7 +65,7 @@ function regist() {
 })(jQuery);
 function addToFavorite() {
     var a = "http://www.jt.com/";
-    var b = "京淘商城-网购上京淘，省钱又放心";
+    var b = "虫二商城-网购上虫二，省钱又放心";
     if (document.all) {
         window.external.AddFavorite(a, b)
     } else if (window.sidebar) {
@@ -80,7 +80,7 @@ function addToFavorite() {
 <div class="w" id="logo">
     <div>
     	<a href="http://www.jt.com/">
-    		<img src="/images/jt-logo.png" alt="京淘商城" width="170" height="60"/>
+    		<img src="/images/jt-logo.png" alt="虫二商城" width="170" height="60"/>
     	</a> <b></b>
     </div>
 </div>

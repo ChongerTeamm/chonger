@@ -1074,7 +1074,7 @@ img.err-price {
 	position: absolute;
 	z-index: 3;
 	padding: 4px 15px 4px 5px;
-	background: #FFFCEE;
+	background: #fffCEE;
 	border: 1px solid #F6E09C;
 	-moz-box-shadow: 0 0 5px #DDD;
 	-webkit-box-shadow: 0 0 5px #DDD;
@@ -1114,7 +1114,7 @@ img.err-price {
 	height: 0;
 	border-width: 8px;
 	border-style: dashed solid dashed dashed;
-	border-color: transparent #FFFCEE transparent transparent;
+	border-color: transparent #fffCEE transparent transparent;
 	overflow: hidden
 }
 
@@ -1357,6 +1357,7 @@ img.err-price {
 	height: 30px;
 	margin-bottom: 3px;
 	border: 3px solid #E4393C
+
 }
 
 #search-2013 .form {
@@ -1479,7 +1480,7 @@ img.err-price {
 }
 
 #shelper li.fore1 strong {
-	color: #C00
+	color: #c00
 }
 
 #shelper li.fore1 .fore1 strong {
@@ -2360,7 +2361,7 @@ img.err-price {
 #categorys-2013 .item {
 	width: 200px;
 	height: 28px;
-	border-top: 1px solid #FFF
+	border-top: 1px solid #fff
 }
 
 #categorys-2013 .fore1 {
@@ -2712,7 +2713,7 @@ img.err-price {
 #service-2013 {
 	padding: 10px 20px;
 	margin-bottom: 20px;
-	background: #FFF;
+	background: #fff;
 	border-top: 1px solid #DDD;
 	border-bottom: 1px solid #F1F1F1
 }

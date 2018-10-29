@@ -51,7 +51,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.jt</groupId>
-			<artifactId>common_v1</artifactId>
+			<artifactId>1806-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>

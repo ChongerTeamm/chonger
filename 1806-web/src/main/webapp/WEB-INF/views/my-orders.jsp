@@ -7,9 +7,9 @@
 <head>
 <meta http-equiv="Cache-Control" content="max-age=300" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>我的订单 - 京淘</title>
-<meta name="Keywords" content="java,京淘java" />
-<meta name="description" content="在京淘中找到了29910件java的类似商品，其中包含了“图书”，“电子书”，“教育音像”，“骑行运动”等类型的java的商品。" />
+<title>我的订单 - 虫二</title>
+<meta name="Keywords" content="java,虫二java" />
+<meta name="description" content="在虫二中找到了29910件java的类似商品，其中包含了“图书”，“电子书”，“教育音像”，“骑行运动”等类型的java的商品。" />
 <link rel="stylesheet" type="text/css" href="/css/base.css" media="all" />
 <link rel="stylesheet" type="text/css" href="/css/myjd.common.css" media="all" />
 <link rel="stylesheet" type="text/css" href="/css/myjd.order.css" media="all" />

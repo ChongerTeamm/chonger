@@ -2,13 +2,13 @@
 <div id="shortcut-2013">
 	<div class="w">
 		<ul class="fl lh">
-			<li class="fore1 ld" clstag="homepage|keycount|home2013|01a"><b></b><a href="javascript:addToFavorite()" rel="nofollow">收藏景淘</a></li>
+			<li class="fore1 ld" clstag="homepage|keycount|home2013|01a"><b></b><a href="javascript:addToFavorite()" rel="nofollow">收藏虫二</a></li>
 		</ul>
 		<ul class="fr lh">
-			<li class="fore1" id="loginbar" clstag="homepage|keycount|home2013|01b">您好！欢迎来到景淘！<a href="javascript:login()">[登录]</a>&nbsp;<a href="javascript:regist()">[免费注册]</a></li>
+			<li class="fore1" id="loginbar" clstag="homepage|keycount|home2013|01b">您好！欢迎来到虫二！<a href="javascript:login()">[登录]</a>&nbsp;<a href="javascript:regist()">[免费注册]</a></li>
 			<li class="fore2 ld" clstag="homepage|keycount|home2013|01c">
 				<s></s>
-				<a href="/order/myOrder.html" rel="nofollow">我的景淘</a>
+				<a href="/order/myOrder.html" rel="nofollow">我的虫二</a>
 			</li>
 			<li class="fore2-1 ld" id="jd-vip">
 				<s></s>
@@ -16,7 +16,7 @@
 			</li>
 			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown" clstag="homepage|keycount|home2013|01d">
 				<s></s><i></i><span class="outline"></span><span class="blank"></span>
-				<a href="http://app.jd.com/" target="_blank">手机景淘</a><b></b>
+				<a href="http://app.jd.com/" target="_blank">手机虫二</a><b></b>
 			</li>
 			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown" clstag="homepage|keycount|home2013|01e">
 				<s></s>
