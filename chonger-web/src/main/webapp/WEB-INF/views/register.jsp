@@ -198,7 +198,7 @@ function addToFavorite() {
                                                                 style="text-decoration:underline;" href="javascript:;">验证邮箱</a>
                         </div>
 						                    </div>
-					<!-- 
+					
                     <div id="mobileCodeDiv" class="item hide" style="height: 62px;">
                         <span class="label"><b class="ftx04">*</b>短信验证码：</span>
 
@@ -208,7 +208,7 @@ function addToFavorite() {
                                    style="ime-mode:disabled" id="mobileCode" onblur="mobileCodeBlur()"
                                    onfocus="mobileCodeFocus();">
                             <label class="blank invisible"></label>
-                            <a class="btn" href="javascript:void(0);" onclick="sendMobileCode();" id="sendMobileCode">
+                            <a class="btn" href="javascript:void(0);" onclick="sendmCode();" id="sendMobileCode">
                                 <span id="dyMobileButton">获取短信验证码</span></a>
                             <span class="clr"></span>
 
@@ -218,7 +218,7 @@ function addToFavorite() {
                         </div>
                         <span class="clr"></span>
                     </div>
-                     -->
+                    
 					                </div>
                                 <div class="item item-new">
                     <span class="label">&nbsp;</span>

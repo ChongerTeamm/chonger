@@ -112,11 +112,12 @@ function reg() {
 		var _password = $("#personRegForm [name=password]").val();
 		var _username = $("#personRegForm [name=username]").val();
 		var _phone = $("#personRegForm [name=phone]").val();
+		var _validate = $("#personRegForm [name=mobileCode]").val();
 		$.ajax({
 			type : "POST",
 			url : "/service/user/doRegister",
 			contentType : "application/x-www-form-urlencoded; charset=utf-8",
-			data : {password:_password,username:_username,phone:_phone},
+			data : {password:_password,username:_username,phone:_phone,validate:_validate},
 			dataType : 'json',
 			success : function(result) {
 				if(result.status == "200"){
