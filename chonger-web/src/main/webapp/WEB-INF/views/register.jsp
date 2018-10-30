@@ -199,7 +199,7 @@ function addToFavorite() {
                         </div>
 						                    </div>
 					
-                    <div id="mobileCodeDiv" class="item hide" style="height: 62px;">
+                    <div id="mobileCodeDiv" class="" style="height: 62px;">
                         <span class="label"><b class="ftx04">*</b>短信验证码：</span>
 
                         <div class="fl item-ifo">
