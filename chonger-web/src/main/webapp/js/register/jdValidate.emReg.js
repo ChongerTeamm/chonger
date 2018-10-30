@@ -122,11 +122,13 @@ function reg() {
 			success : function(result) {
 				if(result.status == "200"){
 					// 注册成功，去登录页
-					showMessage('注册成功，请登录！');
+					/*showMessage('注册成功，请登录！');
 					verc();
 					$("#registsubmit").removeAttr("disabled").removeClass()
 							.addClass("btn-img btn-regist");
-					isSubmit = false;
+					isSubmit = false;*/
+					result.success = "http://www.chonger.com/user/login";
+					 window.location = result.success;
 					return;
 				}else{
 					alert('注册失败，请重新注册！   ' + result.data );

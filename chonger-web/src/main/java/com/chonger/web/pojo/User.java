@@ -8,6 +8,10 @@ import javax.persistence.Table;
 import com.chonger.common.po.BasePojo;
 @Table(name="tb_user")
 public class User extends BasePojo{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long id;

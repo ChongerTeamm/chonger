@@ -6,13 +6,13 @@ var TT = JT = {
 		}
 		//当dataType类型为jsonp时，jQuery就会自动在请求链接上增加一个callback的参数
 		$.ajax({
-			url : "http://sso.jt.com/user/query/" + _ticket,
+			url : "http://sso.chonger.com/user/query/" + _ticket,
 			dataType : "jsonp",
 			type : "GET",
 			success : function(data){
 				if(data.status == 200){
 					var _data = JSON.parse(data.data);	//jackson
-					var html =_data.username+_data.phone+_data.email+"，欢迎来到京淘！<a href=\"http://www.jt.com/user/logout.html\" class=\"link-logout\">[退出]</a>";
+					var html =_data.username+"，欢迎来到虫二！<a href=\"http://www.chonger.com/user/logout.html\" class=\"link-logout\">[退出]</a>";
 					$("#loginbar").html(html);
 				}
 			},
