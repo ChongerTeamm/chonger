@@ -383,7 +383,7 @@ $("#loginsubmit").click(function () {
                 if (result) {
                     var obj = eval(result);		//把result转成js对象
                     if (obj.status == 200) {
-                    	obj.success = "http://www.jt.com/index.html";
+                    	obj.success = "http://www.chonger.com/index";
                         var isIE = !-[1,];
                         if (isIE) {
                             var link = document.createElement("a");

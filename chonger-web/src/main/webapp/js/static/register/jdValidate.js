@@ -711,7 +711,7 @@ function sendmCode() {
     $("#sendMobileCode").attr("disabled", "disabled");
     jQuery.ajax({
         type: "get",
-        url: "../notifyuser/mobileCode?state=" + state + "&mobile=" + $("#phone").val() + "&r=" + Math.random(),
+        url: "send/validate/" + $("#phone").val(),
         success: function(result) {
             if (result) {
                 var obj = eval(result);
