@@ -13,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 		<!--忽略页面中的数字识别为电话，忽略email识别-->
 		<meta name="format-detection" content="telphone=no, email=no" />
-		<title>九寨沟-虫二景点</title>
+		<title>${item.title }-虫二景点</title>
 		<link rel="stylesheet" type="text/css" href="../css2/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="../css2/base.css" />
 		<link rel="stylesheet" href="../css2/jquery.fullPage.css">

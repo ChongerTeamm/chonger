@@ -13,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 		<!--忽略页面中的数字识别为电话，忽略email识别-->
 		<meta name="format-detection" content="telphone=no, email=no" />
-		<title>古代工程-虫二推荐</title>
+		<title>${itemCat.name }-虫二推荐</title>
 		<link rel="stylesheet" type="text/css" href="../css2/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="../css2/base.css" />
 		<!--[if lt IE 9]>
@@ -33,7 +33,7 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				    </button>
-					<a class="navbar-brand" href="#"><img src="http://image.jt.com/img/logo.png" class="img-responsive" /></a>
+					<a class="navbar-brand" href="#"><img src="http://image.chonger.com/img/logo.png" class="img-responsive" /></a>
 				</div>
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -99,7 +99,7 @@
 
                     <div class="clean-footer-logo wow bounceIn animated" data-wow-offset="0" style="visibility: visible; animation-name: bounceIn;">
                         <a href="index.html">
-                            <img id="logo-footer" src="http://image.jt.com/img/logo.png" alt="clean">
+                            <img id="logo-footer" src="http://image.chonger.com/img/logo.png" alt="clean">
                         </a>
                     </div>
 					
