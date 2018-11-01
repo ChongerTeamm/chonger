@@ -31,7 +31,7 @@
 		<!--my360buy end-->
 		<div id="settleup-2013" clstag="homepage|keycount|home2013|05a">
 			<dl>
-				<dt class="ld"><s></s><span class="shopping"><span id="shopping-amount"></span></span><a href="http://www.jt.com/cart/show.html" id="settleup-url">收藏虫儿</a> <b></b> </dt>
+				<dt class="ld"><s></s><span class="shopping"><span id="shopping-amount"></span></span><a href="http://www.jt.com/cart/show.html" id="settleup-url">收藏虫二</a> <b></b> </dt>
 <!-- 				<dd>
 					<div class="prompt">
 						<div class="loading-style1"><b></b>加载中，请稍候...</div>
@@ -48,7 +48,8 @@
 				<div class="mt ld">
 					<h2><a href="http://www.jd.com/allSort.aspx" clstag="homepage|keycount|home2013|06a">全部旅游分类<b></b></a></h2>
 				</div>
-				<div id="_JD_ALLSORT" class="mc">
+				
+				<div id="" class="mc">
 					<div class="item fore1">
 						<span data-split="1"><h3>
 								<a href="/products/1.html">自然景观</a>
@@ -61,12 +62,6 @@
 							</h3>
 							<s></s></span>
 					</div>
-					<div class="item fore3">
-						<span data-split="1"><h3>
-								<a href="/products/161.html">民族风情</a>
-							</h3>
-							<s></s></span>
-					</div>
 					<div class="item fore4">
 						<span data-split="1"><h3>
 								<a href="/products/249.html">特色美食</a>
@@ -76,6 +71,12 @@
 					<div class="item fore5">
 						<span data-split="1"><h3>
 								<a href="/products/290.html">传统文化</a>
+							</h3>
+							<s></s></span>
+					</div>
+					<div class="item fore3">
+						<span data-split="1"><h3>
+								<a href="/products/161.html">民族风情</a>
 							</h3>
 							<s></s></span>
 					</div>
@@ -138,6 +139,32 @@
 							{="" if}="" href="http://www.jd.com/allSort.aspx">全部旅游分类</a>
 					</div>
 				</div>
+				<div id="_JD_ALLSORT" class="mc">
+					<div class="item fore1">
+						<span data-split="1"><h3>
+								<a href="/products/1.html">自然景观</a>
+							</h3>
+							<s></s></span>
+					</div>
+					<div class="item fore2">
+						<span data-split="1"><h3>
+								<a href="/products/74.html">人文景观</a>
+							</h3>
+							<s></s></span>
+					</div>
+					<div class="item fore4">
+						<span data-split="1"><h3>
+								<a href="/products/249.html">特色美食</a>
+							</h3>
+							<s></s></span>
+					</div>
+					<div class="item fore5">
+						<span data-split="1"><h3>
+								<a href="/products/290.html">传统文化</a>
+							</h3>
+							<s></s></span>
+					</div>
+				</div>	
 			</div>
 			<div id="treasure" clstag="homepage|keycount|home2013|08a"></div>
 				<ul id="navitems-2013">

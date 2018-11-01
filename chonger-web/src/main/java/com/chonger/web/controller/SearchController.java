@@ -17,8 +17,11 @@ public class SearchController {
 	private SearchService searcher;
 		//接收前台的数据,查询q对应的title名称的数据,分页返回
 	@RequestMapping("search")
-	public String search(String q,Model model,
-			@RequestParam(defaultValue="1")Integer page){
+	public String search(String q,
+			@RequestParam(defaultValue="1")Integer page,Model model){
+		System.out.println("搜索响应");
+		System.out.println("------------------------------------------");
+		System.out.println(q);
 		List<Item> itemList=searcher.findItems(q,page);
 		model.addAttribute("itemList", itemList);
 		model.addAttribute("query", q);

@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>虫二网-综合旅游推荐首选（JT.COM）-旅游度假、出行攻略、风土人情、心得分享！</title>
-<meta name="description" content="京淘JD.COM-专业的综合网上购物商城，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品、在线旅游等数万个品牌千万种优质商品。便捷、诚信的服务，为您提供愉悦的网上商城购物体验! ">
-<meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京淘商城">
+<meta name="description" content=" ">
+<meta name="Keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css"> -->
   	<script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
@@ -76,16 +76,24 @@
   <!-- 轮播图片 -->
    <div class="carousel-inner">
     <div class="carousel-item active">
+   	<a href="http://www.chonger.com/items/6.html">
       <img src="/images/111.jpg">
+     </a>
     </div>
     <div class="carousel-item">
+      <a href="http://www.chonger.com/items/0.html">
       <img src="/images/222.jpg">
+      </a>
     </div>
     <div class="carousel-item">
-      <img src="/images/333.jpg">
+      <a href="http://www.chonger.com/items/4.html">
+      	<img src="/images/333.jpg">
+      </a>
     </div>
      <div class="carousel-item">
+       <a href="http://www.chonger.com/items/2.html">
       <img src="/images/444.jpg">
+      </a>
     </div>
   </div>
  
@@ -322,7 +330,7 @@ pageConfig.DATA_MScroll =[
 <!--virtuals end-->
 <span class="clr"></span>
 </div>
-<!-- 幻灯片, 公信力, 京淘快报, 虚拟产品 end -->
+
  
 <div id="floors-list">
 <div class="w w1" data-fid="0" id="electronics">
@@ -335,18 +343,18 @@ pageConfig.DATA_MScroll =[
 <div class="style1">
 <ul class="lh" clstag="homepage|keycount|home2013|18a">
 	<li><a href="http://www.360buy.com/products/652-653-000.html">布达拉宫</a></li>
-	<li><a href="http://www.jd.com/products/737-794-870-0-0-0-0-0-0-0-1-1-1-1-33.html">三亚</a></li>
+	<li><a href="http://www.chonger.com/items/4.html">三亚</a></li>
 	<li><a href="http://www.360buy.com/products/652-830-000.html">三峡大坝</a></li>
-	<li><a href="http://www.jd.com/products/737-794-798-0-0-0-0-0-0-0-1-1-1-1-72-33.html">万里长城</a></li>
+	<li><a href="http://www.chonger.com/items/6.html">万里长城</a></li>
 	<li><a href="http://channel.jd.com/yunyingshang.html">三星堆遗址</a></li>
 	<li><a href="http://www.jd.com/products/737-794-878-0-0-0-0-0-0-0-1-1-1-1-72-33.html">三清山</a></li>
 	<li><a href="http://www.jd.com/products/737-738-000.html">上海外滩</a></li>
 	<li><a href="http://www.jd.com/products/737-794-880-0-0-0-0-0-0-0-1-1-1-1-72-33.html">中山陵</a></li>
 	<li><a href="http://www.jd.com/products/737-752-000.html">丹霞山</a></li>
-	<li><a href="http://www.jd.com/products/737-794-1706-0-0-0-0-0-0-0-1-1-1-1-72-33.html">丽江古城</a></li>
+	<li><a href="http://www.chonger.com/items/3.html">丽江古城</a></li>
 	<li><a href="http://www.jd.com/products/737-1276-000.html">乌镇</a></li>
 	<li><a href="http://www.jd.com/products/737-794-1300-0-0-0-0-0-0-0-1-1-1-1-72-33.html">乐山大佛</a></li>
-	<li><a href="http://www.jd.com/products/737-1277-000.html">九寨沟</a></li>
+	<li><a href="http://www.chonger.com/items/2.html">九寨沟</a></li>
 	<li><a href="http://www.jd.com/products/737-794-823-0-0-0-0-0-0-0-1-1-1-1-72-33.html">云南罗平</a></li>
 	<li><a href="http://www.jd.com/products/737-794-1707-0-0-0-0-0-0-0-1-1-1-1-72-33.html">井冈山</a></li>
 	<li><a href="http://channel.jd.com/auto.html">千岛湖</a></li>
@@ -366,38 +374,48 @@ pageConfig.DATA_MScroll =[
   <div class="smt">
     <h3>丽江古城</h3>
   </div>
+  <a href="http://www.chonger.com/items/3.html">
   <div class="smc" data-widget="tab-content">
     <div class=""><img width="789" height="359" src="/images/lijiang.jpg"/></div>
   </div>
+  </a>
 </div>
 <div class="sm sm2 fore2"  data-widget="tab-item"  clstag="homepage|keycount|home2013|18d">
   <div class="smt">
     <h3>桂林山水</h3>
   </div>
+    <a href="http://www.chonger.com/items/0.html">
   <div class="smc" data-widget="tab-content">
     <div class=""><img width="789" height="359" src="/images/guilinshanshui.jpg"/></div>
   </div>
+  </a>
 </div><div class="sm sm2 fore3"  data-widget="tab-item"  clstag="homepage|keycount|home2013|18e">
   <div class="smt">
     <h3>杭州西湖</h3>
   </div>
+    <a href="http://www.chonger.com/items/5.html">
   <div class="smc" data-widget="tab-content">
    <div class=""><img width="789" height="359" src="/images/xihu.jpg"/></div>
   </div>
+  </a>
 </div><div class="sm sm2 fore4"  data-widget="tab-item"  clstag="homepage|keycount|home2013|18f">
   <div class="smt">
     <h3>九寨沟</h3>
   </div>
+    <a href="http://www.chonger.com/items/2.html">
   <div class="smc" data-widget="tab-content">
     <div class=""><img width="789" height="359" src="/images/jiuzhaigou.jpg"/></div>
   </div>
+  </a>
 </div><div class="sm sm2 fore5"  data-widget="tab-item"  clstag="homepage|keycount|home2013|18g">
   <div class="smt">
     <h3>黄果树瀑布</h3>
   </div>
+    <a href="http://www.chonger.com/items/1.html">
   <div class="smc" data-widget="tab-content">
     <div class=""><img width="789" height="359" src="/images/huangguoshupubu.jpg"/></div>
   </div>
+  </a>
 </div></div>
 <!-- ad start -->
 <div class="sm sm1 brands" clstag="homepage|keycount|home2013|19a">

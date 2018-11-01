@@ -53,12 +53,12 @@ public class ItemCat {
 	}
 	//为了分类的展示,满足EasyUI的要求编写的json新属性
 	//text
-	public String getText(){
+/*	public String getText(){
 		return this.name;
 	}
 	
 	public String getState(){
 		return isParent? "closed":"open";
-	}
+	}*/
 	
 }

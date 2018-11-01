@@ -32,21 +32,21 @@ public class ItemCatUtil {
 			List<ItemCatData> itemCatDataList1 = new ArrayList<ItemCatData>();
 			for(ItemCat itemCat1:itemCatList1){//遍历一级菜单
 				ItemCatData itemCatData1=new ItemCatData();
-				itemCatData1.setUrl("/products/"+itemCat1.getId()+"/.html");
-				itemCatData1.setName("<a href='/products/"+itemCat1.getId()+".html'>"+itemCat1.getName()+"</a>");
+				itemCatData1.setUrl("/cats/"+itemCat1.getId()+"/.html");
+				itemCatData1.setName("<a href='/cats/"+itemCat1.getId()+".html'>"+itemCat1.getName()+"</a>");
 				
 				//遍历二级菜单,也需要拼接
 				List<ItemCatData> itemCatDataList2=new ArrayList<ItemCatData>();
 				for(ItemCat itemCat2:map.get(itemCat1.getId())){
 					ItemCatData itemCatData2=new ItemCatData();
-					itemCatData2.setUrl("/products/"+itemCat2.getId()+"/.html");
-					itemCatData2.setName("<a href='/products/"+itemCat2.getId()+".html'>"+itemCat2.getName()+"</a>");
+					itemCatData2.setUrl("/cats/"+itemCat2.getId()+"/.html");
+					itemCatData2.setName("<a href='/cats/"+itemCat2.getId()+".html'>"+itemCat2.getName()+"</a>");
 					//遍历三级菜单
 					
 					List<String> itemCatDataList3=new ArrayList<String>();
 					for (ItemCat itemCat3 : map.get(itemCat2.getId())) {
 						//三级菜单只是一个字符串和1,2级结构不同
-						itemCatDataList3.add("/produts/"+itemCat3.getId()+".html|"+itemCat3.getName());
+						itemCatDataList3.add("/cats/"+itemCat3.getId()+".html|"+itemCat3.getName());
 					}
 					itemCatData2.setItems(itemCatDataList3);
 					itemCatDataList2.add(itemCatData2);
