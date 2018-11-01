@@ -34,6 +34,7 @@ public class ItemService {
 
 	@Autowired
 	private ItemDescMapper itemDescMapper;
+	
 
 	public void saveItem(Item item, String desc) {
 		// 封装完整对象

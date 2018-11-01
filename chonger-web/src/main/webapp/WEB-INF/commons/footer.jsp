@@ -8,7 +8,7 @@
 <script type="text/javascript" src="/js/lib-v1.js" charset="utf-8"></script>
 <script type="text/javascript" src="/js/jt.js" charset="utf-8"></script>
 <script type="text/javascript"> (function(){
-var A="<strong>热门搜索：</strong><a href='http://sale.jd.com/act/OfHQzJ2GLoYlmTIu.html' target='_blank' style='color:#ff0000' clstag='homepage|keycount|home2013|03b1'>杭州西湖</a><a href='http://sale.jd.com/act/aEBHqLFMfVzDZUvu.html' target='_blank'>普陀山</a><a href='http://www.jd.com/pinpai/878-12516.html' target='_blank'>景德镇</a><a href='http://sale.jd.com/act/nuzKb6ZiYL.html' target='_blank'>楼兰古城</a><a href='http://sale.jd.com/act/ESvhtcAJNbaj.html' target='_blank'>滕王阁</a><a href='http://sale.jd.com/act/p0CmUlEFPHLX.html' target='_blank'>神农架</a><a href='http://sale.jd.com/act/FstSdb2vCOLa8BRi.html' target='_blank'>秦始皇兵马俑</a>";
+var A="<strong>热门搜索：</strong><a href='http://www.chonger.com/items/5.html' target='_blank' style='color:#ff0000' clstag='homepage|keycount|home2013|03b1'>杭州西湖</a><a href='http://sale.jd.com/act/aEBHqLFMfVzDZUvu.html' target='_blank'>普陀山</a><a href='http://www.jd.com/pinpai/878-12516.html' target='_blank'>景德镇</a><a href='http://sale.jd.com/act/nuzKb6ZiYL.html' target='_blank'>楼兰古城</a><a href='http://sale.jd.com/act/ESvhtcAJNbaj.html' target='_blank'>滕王阁</a><a href='http://sale.jd.com/act/p0CmUlEFPHLX.html' target='_blank'>神农架</a><a href='http://sale.jd.com/act/FstSdb2vCOLa8BRi.html' target='_blank'>秦始皇兵马俑</a>";
 var B=["夫子庙","可可西里","壶口瀑布","大雁塔","黄山","张家界"];
 B=pageConfig.FN_GetRandomData(B);
 $("#hotwords").html(A);
